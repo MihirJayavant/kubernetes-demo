@@ -9,4 +9,4 @@
 ## Objects used
 1. Deployment
 2. ClusterIP
-3. Nginx-ingres
+3. Nginx-ingress
